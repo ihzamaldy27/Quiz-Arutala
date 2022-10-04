@@ -1,0 +1,15 @@
+D:\QUIZ-ARUTALA\VSCode\bin\Debug\net6.0\VSCode.exe
+D:\QUIZ-ARUTALA\VSCode\bin\Debug\net6.0\VSCode.deps.json
+D:\QUIZ-ARUTALA\VSCode\bin\Debug\net6.0\VSCode.runtimeconfig.json
+D:\QUIZ-ARUTALA\VSCode\bin\Debug\net6.0\VSCode.dll
+D:\QUIZ-ARUTALA\VSCode\bin\Debug\net6.0\VSCode.pdb
+D:\QUIZ-ARUTALA\VSCode\obj\Debug\net6.0\VSCode.csproj.AssemblyReference.cache
+D:\QUIZ-ARUTALA\VSCode\obj\Debug\net6.0\VSCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\QUIZ-ARUTALA\VSCode\obj\Debug\net6.0\VSCode.AssemblyInfoInputs.cache
+D:\QUIZ-ARUTALA\VSCode\obj\Debug\net6.0\VSCode.AssemblyInfo.cs
+D:\QUIZ-ARUTALA\VSCode\obj\Debug\net6.0\VSCode.csproj.CoreCompileInputs.cache
+D:\QUIZ-ARUTALA\VSCode\obj\Debug\net6.0\VSCode.dll
+D:\QUIZ-ARUTALA\VSCode\obj\Debug\net6.0\refint\VSCode.dll
+D:\QUIZ-ARUTALA\VSCode\obj\Debug\net6.0\VSCode.pdb
+D:\QUIZ-ARUTALA\VSCode\obj\Debug\net6.0\VSCode.genruntimeconfig.cache
+D:\QUIZ-ARUTALA\VSCode\obj\Debug\net6.0\ref\VSCode.dll
