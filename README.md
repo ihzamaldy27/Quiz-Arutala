@@ -26,8 +26,8 @@ Engineering Team
 
 #Exercise 1
 <br>
-Disini saya menggunakan AR SDK dari Google atau langsung bawaan Unity yang bernama ARCore.
-berikut APK yang bisa didownload : <a herf="https://drive.google.com/file/d/1sMxi5dErcyw00Im12-EQ9L1YrhEGuFKM/view?usp=sharing">Download</a>
-dengan ImageTrace menggunakan Logo dari Arutala itu sendiri bisa langsung klik link ini <a href="http://bit.ly/316MZtT"> ImageTrace</a>
+Disini saya menggunakan AR SDK dari Google atau langsung bawaan Unity yang bernama ARCore. <br>
+berikut APK yang bisa didownload : <a herf="https://drive.google.com/file/d/1sMxi5dErcyw00Im12-EQ9L1YrhEGuFKM/view?usp=sharing">Download </a> <br>
+dengan ImageTrace menggunakan Logo dari Arutala itu sendiri bisa langsung klik link ini <a href="http://bit.ly/316MZtT"> ImageTrace</a> <br>
 Namun ada beberapa point yang tidak sempat saya kerjakan yaitu bagian Screenshot & Share media social.
 
